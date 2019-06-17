@@ -1,0 +1,3 @@
+welcome to samplegit
+hello samplegit
+how are you
